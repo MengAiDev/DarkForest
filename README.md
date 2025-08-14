@@ -63,6 +63,7 @@ manim -pql dark_forest.py DarkForestLaw
 
 ## 动画
 
+https://www.bilibili.com/video/BV1aKbzzXEwj
 
 ## 技术说明
 
